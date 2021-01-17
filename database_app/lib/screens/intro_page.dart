@@ -41,7 +41,7 @@ class IntroPage extends StatelessWidget {
                   style: GoogleFonts.montserrat(
                       textStyle: TextStyle(
                           color: Colors.white,
-                          fontSize: 25,
+                          fontSize: 30,
                           decoration: TextDecoration.none))),
             ),
             Container(

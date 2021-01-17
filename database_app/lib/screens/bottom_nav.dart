@@ -16,7 +16,7 @@ class _BottomNavBarState extends State<BottomNavBar> {
         type: BottomNavigationBarType.fixed,
         items: [
           BottomNavigationBarItem(
-              icon: Icon(Icons.add, color: Colors.white,), title: Text("Add Item")),
+              icon: Icon(Icons.add, color: Colors.white,), title: Text("Add Item"),),
           BottomNavigationBarItem(
               icon: Icon(Icons.home_outlined, color: Colors.white,), title: Text("Home")),
           BottomNavigationBarItem(
