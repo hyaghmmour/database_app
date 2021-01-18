@@ -7,6 +7,7 @@ class TopNav extends StatelessWidget {
       backgroundColor: Color.fromRGBO(4, 4, 11, .9),
       elevation: 0,
       leading: IconButton(
+        onPressed: () => {},
         icon: Icon(
           Icons.menu_rounded,
           size: 30,

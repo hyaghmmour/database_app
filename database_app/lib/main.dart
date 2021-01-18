@@ -1,5 +1,3 @@
-import 'package:database_app/screens/appbar.dart';
-import 'package:database_app/screens/home.dart';
 import 'package:database_app/screens/intro_page.dart';
 import 'package:flutter/material.dart';
 
